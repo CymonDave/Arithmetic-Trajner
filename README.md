@@ -12,7 +12,7 @@ set minimum to 11 and maximum to 99 for better results. This is the link: https:
 <img width="211" height="395" alt="image" src="https://github.com/user-attachments/assets/a1250ed2-ccbb-4870-8616-899d265b7e0e" />
 
 3. Name the app and enjoy
-<img width="585" height="342" alt="image" src="https://github.com/user-attachments/assets/66135147-b3a3-4981-a9bb-90a168c43184" />
+<img width="292" height="171" alt="image" src="https://github.com/user-attachments/assets/66135147-b3a3-4981-a9bb-90a168c43184" />
 
 
 ### App logo:
